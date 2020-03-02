@@ -36,7 +36,6 @@ noremap S :w<CR>
 noremap R :source $MYVIMRC<CR>  
 noremap J 5j
 noremap K 5k 
-let mapleader=" "
 
 "---Split
 noremap <LEADER>h <C-w>h
